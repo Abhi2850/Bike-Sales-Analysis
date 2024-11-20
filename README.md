@@ -12,4 +12,4 @@ The research leverages advanced data analytics and visualization techniques to i
 
 3. The Middle Age group constitutes the majority of buyers (198 out of 462), indicating it as the most active customer segment.
 
- 4.Buyers with higher income levels tend to have a greater likelihood of purchasing, indicating income as a key driver for sales
+4. Buyers with higher income levels tend to have a greater likelihood of purchasing, indicating income as a key driver for sales
