@@ -15,6 +15,8 @@ The research leverages advanced data analytics and visualization techniques to i
 4. Buyers with higher income levels tend to have a greater likelihood of purchasing, indicating income as a key driver for sales
 
 # Visuals
+![Pivot](https://github.com/user-attachments/assets/c94f3e78-3a21-4b55-a544-35d318ff7445)
+Fig 1: Pivot Table
 
-[Bike Sales Analysis.xlsx](https://github.com/user-attachments/files/17843808/Bike.Sales.Analysis.xlsx)
 ![Excel Dashboard](https://github.com/user-attachments/assets/7b7819bf-4322-4707-a368-185854055444)
+Fig 1: Dashboard
